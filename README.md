@@ -257,4 +257,11 @@ Data quality isn't a box you check. It's the foundation everything else stands o
 
 ---
 
-*Built by Atharva Gupte — consumer credit analyst and aspiring healthcare IT professional*
+## A note on process
+
+I used AI tools (Claude) to help structure queries, debug syntax errors, 
+and think through the analysis — the same way a developer uses Stack Overflow 
+or a senior colleague to sanity-check their work. Every query in this project 
+was run by me against a real SQL Server database, and every result and 
+business interpretation is my own.
+
